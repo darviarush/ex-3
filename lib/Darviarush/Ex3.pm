@@ -3,9 +3,9 @@ use 5.008001;
 use strict;
 use warnings;
 
-our $VERSION = "v3";
+our $VERSION = "v3.1";
 
-
+sub A { 123 }
 
 1;
 __END__
